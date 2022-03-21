@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getcrmTest_Perelygina", "getcrmTest_Perelygina\getcrmTest_Perelygina.csproj", "{8843CEAF-B77F-4C16-B767-CE18D9D7B11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8843CEAF-B77F-4C16-B767-CE18D9D7B11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8843CEAF-B77F-4C16-B767-CE18D9D7B11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8843CEAF-B77F-4C16-B767-CE18D9D7B11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8843CEAF-B77F-4C16-B767-CE18D9D7B11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62796CA7-A01B-475E-B512-2FF8DCD40C52}
+	EndGlobalSection
+EndGlobal
